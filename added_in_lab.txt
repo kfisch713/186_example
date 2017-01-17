@@ -1,0 +1,2 @@
+yep, the lab computers have git installed
+
